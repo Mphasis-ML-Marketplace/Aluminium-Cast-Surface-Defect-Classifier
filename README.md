@@ -1,5 +1,5 @@
 # Aluminium-Cast-Surface-Defect-Classifier
-Image analytics-based solution to classify salient surface defects in Aluminum casting.
+Image analytics-based solution to classify salient surface defects in aluminium casting.
 
 ## Product overview
 Surface defects in aluminium di casting poses quality and performance risks. Classifying defects enables for the rapid identification and removal of the causes of their occurrence, as well as the provision of appropriate treatment to fix them. This Deep Learning-based solution identifies three classes of salient surface defects: blowhole, porosity and shrinkage cavity. This solution analyses the user provided image data, identifies the best performing deep learning model architecture, and predicts the defect class with the highest probability score. This can assist metal products manufacturing companies to improve their quality control process.
